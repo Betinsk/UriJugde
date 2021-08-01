@@ -12,13 +12,8 @@ public class Uri1073 {
 		while(par !=N) {
 			par += 2;
 			int x = par * par;
-			System.out.println(par + " ^ 2 = "+ x );
+			System.out.println(par + "^2 = "+ x );
 		}
-		
-		
-		
-		
-		
 		sc.close();
 	}
 
